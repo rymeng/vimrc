@@ -1,4 +1,5 @@
 "Cache
+let g:netrw_home=$CACHE_FOLDER.'/vim'
 set viminfo+=n~/.cache/vim/.viminfo
 
 "Display
